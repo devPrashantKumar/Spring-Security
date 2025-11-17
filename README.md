@@ -7,3 +7,12 @@
 ### SpringSecurityLearning02
 - default authentication provided by spring-security
 - manage/change default username and password via configuration/properties file
+
+### SpringSecurityLearning03
+- Creating Multiple InMemory users
+- using different password encoder
+- deciding password encoder by DelegatingPasswordEncoder
+- explicitly declaring PasswordEncoder by creating Password Encoder bean
+
+### SpringSecurityLearning04
+- Creating InMemory users dynamically
