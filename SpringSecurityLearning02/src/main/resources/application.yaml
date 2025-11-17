@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: SpringSecurityLearning02
+
+  security:
+    user:
+      name: prashant
+      password: pass
+      roles: ADMIN,USER
