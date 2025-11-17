@@ -16,3 +16,7 @@
 
 ### SpringSecurityLearning04
 - Creating InMemory users dynamically
+
+### SpringSecurityLearning05
+- Creating users in db dynamically
+- authenticate users by fetching from db
