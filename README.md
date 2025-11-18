@@ -20,3 +20,9 @@
 ### SpringSecurityLearning05
 - Creating users in db dynamically
 - authenticate users by fetching from db
+
+### SpringSecurityLearning05
+- session management and creation
+- SecurityFilterChain, authorization using roles
+- no. of sessions using securityFilterChain
+- 
