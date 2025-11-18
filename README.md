@@ -21,8 +21,11 @@
 - Creating users in db dynamically
 - authenticate users by fetching from db
 
-### SpringSecurityLearning05
+### SpringSecurityLearning06
+- form login Authentication
 - session management and creation
 - SecurityFilterChain, authorization using roles
 - no. of sessions using securityFilterChain
-- 
+
+### SpringSecurityLearning07
+- stateless authentication using basic auth
