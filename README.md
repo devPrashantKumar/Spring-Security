@@ -29,3 +29,6 @@
 
 ### SpringSecurityLearning07
 - stateless authentication using basic auth
+
+### SpringSecurityLearning08
+- custom jwt authentication implementation
